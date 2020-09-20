@@ -1,2 +1,2 @@
 # PTAcodes
-Store experiment code
+Store experiment codes
