@@ -1,0 +1,6 @@
+5-1
+Student1(int n,string nam,int a):Student(n,nam)
+Student2(int n,string nam,int a,int s):Student1(n,nam,a)
+
+5-2
+Student1(int n,string nam,int n2,string nam2,int a,string ad):Student(n,nam),monitor(n2,nam2)
